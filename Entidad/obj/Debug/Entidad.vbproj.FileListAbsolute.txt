@@ -1,0 +1,19 @@
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Entidad\bin\Debug\Entidad.dll
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Entidad\bin\Debug\Entidad.xml
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.dll
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.xml
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.pdb
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\bin\Debug\Entidad.dll
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\bin\Debug\Entidad.pdb
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\bin\Debug\Entidad.xml
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.vbprojAssemblyReference.cache
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.dll
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.xml
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Entidad\obj\Debug\Entidad.pdb

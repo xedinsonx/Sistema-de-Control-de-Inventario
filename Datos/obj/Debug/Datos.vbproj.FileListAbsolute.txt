@@ -1,0 +1,26 @@
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\bin\Debug\Datos.dll
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\bin\Debug\Datos.pdb
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\bin\Debug\Datos.xml
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\bin\Debug\Entidad.dll
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\bin\Debug\Entidad.pdb
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\bin\Debug\Entidad.xml
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\obj\Debug\Datos.vbprojResolveAssemblyReference.cache
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\obj\Debug\Datos.dll
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\obj\Debug\Datos.xml
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Datos\obj\Debug\Datos.pdb
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\bin\Debug\Datos.dll
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\bin\Debug\Datos.pdb
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\bin\Debug\Datos.xml
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\bin\Debug\Entidad.dll
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\bin\Debug\Entidad.pdb
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\bin\Debug\Entidad.xml
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\obj\Debug\Datos.vbprojAssemblyReference.cache
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\obj\Debug\Datos.dll
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\obj\Debug\Datos.xml
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Datos\obj\Debug\Datos.pdb

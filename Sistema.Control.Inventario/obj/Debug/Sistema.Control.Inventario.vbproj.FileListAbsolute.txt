@@ -1,0 +1,36 @@
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Sistema.Control.Inventario.exe.config
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.vbprojResolveAssemblyReference.cache
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.Resources.resources
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.FrmCargos.resources
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.vbproj.GenerateResource.Cache
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.xml
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Sistema.Control.Inventario.exe
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Sistema.Control.Inventario.pdb
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Sistema.Control.Inventario.xml
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Datos.dll
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Entidad.dll
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Datos.pdb
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Datos.xml
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Entidad.pdb
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Entidad.xml
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.exe
+C:\Users\Lizandro\Desktop\Proyecto Sistema Control\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.pdb
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Sistema.Control.Inventario.exe.config
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Sistema.Control.Inventario.exe
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Sistema.Control.Inventario.pdb
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Sistema.Control.Inventario.xml
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Datos.dll
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Entidad.dll
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Datos.pdb
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Datos.xml
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Entidad.pdb
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\bin\Debug\Entidad.xml
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.vbprojAssemblyReference.cache
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.Resources.resources
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.FrmCargos.resources
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.vbproj.GenerateResource.cache
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.vbproj.CoreCompileInputs.cache
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.vbproj.CopyComplete
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.exe
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.xml
+C:\Users\edins\OneDrive\Escritorio\Sistema.Control.Inventario\Sistema.Control.Inventario\obj\Debug\Sistema.Control.Inventario.pdb
